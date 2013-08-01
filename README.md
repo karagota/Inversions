@@ -13,3 +13,6 @@ For (int i=0; i< array_length; i++) {
 quicksort.php is implementation of the quicksort algorithm for sorting integer arrays.
 It is tested on files 10.txt, 100.txt, 1000.txt and QuickSort.txt for number of comparisons.
 
+
+mincut.php is implementation of min-cut algorithm (finds minimum cut of a graph). 
+To find min cut, one needs to run script nlog(n) times where n is the number of nodes in graph.
